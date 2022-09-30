@@ -1,0 +1,48 @@
+{
+    "token": "MTAyNDcxOTg0NjA2NTMyNDAzMg.G1g9WB.buZtaLV5UzyeL8IIsVkCpvGpbD5TowUMEEoyBk",
+    "prefix": "//",
+    "ownerIDS": [
+        "746006224792846366"
+    ],
+    "fnbr": "",
+    "fortnitetracker": "",
+    "memer_api": "",
+    "status": {
+        "text": "Join The server now",
+        "text2": "By Bishal1",
+        "type": "PLAYING",
+        "url": "mcnp.tech"
+    },
+    "clientsettings": {
+        "nodes": [
+            {
+                "host": "localhost",
+                "port": 2333,
+                "password": "youshallnotpass"
+            }
+        ]
+    },
+    "spotify": {
+        "clientSecret": "",
+        "clientID": ""
+    },
+    "settings": {
+        "COMMENT": "time_delay 0 === insta leave",
+        "leaveOnEmpty_Channel": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "LeaveOnEmpty_Queue": {
+            "enabled": true,
+            "time_delay": 30000
+        },
+        "selfDeaf": true
+    },
+    "lyricssettings": {
+        "lyrics_finder": true,
+        "ksoft_api": {
+            "use_this_instead": true,
+            "api_key": "DISABLED"
+        }
+    }
+}
